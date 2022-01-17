@@ -32,4 +32,4 @@ bot.on("messageCreate", async msg => {
     };
 });
 
-bot.login("OTA4MTIzNDI0MDkyNzM3NTY2.YYxJ2A.WVs9AMoP6jdU-vSsAR1FDPabRvs");
+bot.login("redacted");
